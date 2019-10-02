@@ -12,6 +12,7 @@ Pour le Serverless, la scalabilité est automatique.
 
 # 3.
 Que veut dire Serverless ?
+L’architecture serverless est un modèle de cloud computing dans lequel le client peut créer et exécuter ses applications sans devoir gérer la partie infrastructures et notamment les serveurs.
 
 # 4.
 Citez les trois propriétés désirable du Serverless ?
